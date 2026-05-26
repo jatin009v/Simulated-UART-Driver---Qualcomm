@@ -151,7 +151,7 @@ auto frame = SocketProtocol::createFrame(
 );
 
 Threading Model
-text
+
 Main Thread: Application initialization and control
 UART Worker Thread: Interrupt/DMA mode data processing
 Scheduler Thread: Task execution and timing
